@@ -23,5 +23,8 @@
   - [hftbacktest: For developing high-frequency trading and market-making strategies](https://github.com/nkaz001/hftbacktest)
   - [aat is an asynchronous, event-driven framework for writing algorithmic trading strategies](https://github.com/AsyncAlgoTrading/aat)
 - Live Trading
+  - [Systematic futures trading in python](https://github.com/robcarver17/pysystemtrade)
+  - [K is a family of (very customizable) very low latency market making trading bots with a fully featured web interface](https://github.com/ctubio/Krypto-trading-bot)
+  - [Gamma Ray is a high frequnecy market maker trading bot for crypto currency markets written in C++](https://github.com/hello2all/gamma-ray)
 
 ### 2.3 Quant Research
