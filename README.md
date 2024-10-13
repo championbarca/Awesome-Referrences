@@ -21,6 +21,7 @@
 - Backtesting
   - [btplotting: Library to add extended plotting capabilities to backtrader ](https://github.com/happydasch/btplotting)
   - [hftbacktest: For developing high-frequency trading and market-making strategies](https://github.com/nkaz001/hftbacktest)
+  - [aat is an asynchronous, event-driven framework for writing algorithmic trading strategies](https://github.com/AsyncAlgoTrading/aat)
 - Live Trading
 
 ### 2.3 Quant Research
