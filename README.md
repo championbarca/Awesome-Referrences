@@ -5,6 +5,7 @@
 ### 1.1 Programming
 - C++
 - Python
+  - [dtale: easy way to view & analyze Pandas data structures](https://github.com/man-group/dtale)
 - C#
 - Rust
 
@@ -18,7 +19,7 @@
 
 ### 2.2 Automated Trading
 - Backtesting
-  - [Reference Link](https://github.com/happydasch/btplotting?tab=readme-ov-file)
+  - [btplotting: Library to add extended plotting capabilities to backtrader ](https://github.com/happydasch/btplotting)
 - Live Trading
 
 ### 2.3 Quant Research
