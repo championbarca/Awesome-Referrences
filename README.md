@@ -20,7 +20,7 @@
 ### 2.2 Automated Trading
 - Backtesting
   - [btplotting: Library to add extended plotting capabilities to backtrader ](https://github.com/happydasch/btplotting)
-  - [For developing high-frequency trading and market-making strategies](https://github.com/nkaz001/hftbacktest)
+  - [hftbacktest: For developing high-frequency trading and market-making strategies](https://github.com/nkaz001/hftbacktest)
 - Live Trading
 
 ### 2.3 Quant Research
