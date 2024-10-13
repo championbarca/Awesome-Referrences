@@ -18,6 +18,7 @@
 
 ### 2.2 Automated Trading
 - Backtesting
+  - [Reference Link](https://github.com/happydasch/btplotting?tab=readme-ov-file)
 - Live Trading
 
 ### 2.3 Quant Research
