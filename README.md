@@ -17,7 +17,12 @@
   - [Algorithmic Trading in Python with Machine Learning](https://github.com/edtechre/pybroker)
   - [PyLimitBook is an implementation of a fast limit-order book for level-2 US equities data written in Python](https://github.com/danielktaylor/PyLimitBook)
   - [lightweight-charts-python aims to provide a simple and pythonic way to access and implement TradingView's Lightweight Charts.](https://github.com/louisnw01/lightweight-charts-python)
+  - [Python-based financial analytics library](https://dx-analytics.com/)
+  - [Autoregressive Conditional Heteroskedasticity (ARCH)](https://github.com/bashtage/arch)
+  - [Flint: A Time Series Library for Apache Spark](https://github.com/twosigma/flint)
+  - 
 - C#
+  - [Reactive Trader® is a real-time FX trading platform designed to showcase reactive programming principles across the full application stack](https://github.com/AdaptiveConsulting/ReactiveTraderCloud)
 - Rust
 
 ### 1.2 Operating System
