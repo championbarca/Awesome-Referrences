@@ -29,6 +29,11 @@
   - [zvt want to provide a simple facility for building straightforward algorithm](https://github.com/zvtvz/zvt)
 - Live Trading
   - [Systematic futures trading in python](https://github.com/robcarver17/pysystemtrade)
+  - [This is an arbitrage trading bot initially inspired by this JS implementation](https://github.com/gabriel-milan/btrader)
+  - [A CLI tool based on the crypto-crawler-rs library to crawl trade, level2, level3, ticker, funding rate, etc](https://github.com/crypto-crawler/carbonbot)
+  - [Hummingbot is an open source framework that helps you build automated trading strategies, or bots that run on cryptocurrency exchanges](https://github.com/hummingbot/hummingbot)
+  - [bitcoin-arbitrage - opportunity detector and automated trading](https://github.com/maxme/bitcoin-arbitrage)
+  - 
   - [Octobot is a powerful open-source cryptocurrency trading robot](https://github.com/Drakkar-Software/OctoBot)
   - [Jesse is an advanced crypto trading framework that aims to simplify researching and defining YOUR OWN trading strategies.](https://github.com/jesse-ai/jesse)
   - [newbies into algo trading who are interested in learning to code their own trading algo using python](https://github.com/sreenivasdoosa/sdoosa-algo-trade-python)
