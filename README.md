@@ -71,3 +71,4 @@
   - [This repository contains code for researchers, regulators or practitioners who wish to use financial-exchange message data to quantify latency arbitrage](https://github.com/ericbudish/HFT-Races)
 - ML
   - [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
+  - [Website for a book on machine learning for factor investing](https://github.com/shokru/mlfactor.github.io)
