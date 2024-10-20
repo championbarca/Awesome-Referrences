@@ -14,6 +14,7 @@
   - [PyFlux is an open source time series library for Python](https://github.com/RJT1990/pyflux)
   - [Algorithmic Trading in Python with Machine Learning](https://github.com/edtechre/pybroker)
   - [PyLimitBook is an implementation of a fast limit-order book for level-2 US equities data written in Python](https://github.com/danielktaylor/PyLimitBook)
+  - [lightweight-charts-python aims to provide a simple and pythonic way to access and implement TradingView's Lightweight Charts.](https://github.com/louisnw01/lightweight-charts-python)
 - C#
 - Rust
 
