@@ -50,3 +50,4 @@
   - [Analyzing Alpha](https://github.com/leosmigel/analyzingalpha)
   - [Market Microstructure](https://github.com/gjimzhou/MTH9879-Market-Microstructure-Models)
   - [Market-Microstructure in Baruch MFE for reference purpose](https://github.com/FranklinMa810/Market-Microstructure)
+  - [FedSpeak — How to build a NLP pipeline to predict central bank policy changes](https://github.com/yukit-k/centralbank_analysis)
