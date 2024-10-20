@@ -36,15 +36,17 @@
   - [A CLI tool based on the crypto-crawler-rs library to crawl trade, level2, level3, ticker, funding rate, etc](https://github.com/crypto-crawler/carbonbot)
   - [Hummingbot is an open source framework that helps you build automated trading strategies, or bots that run on cryptocurrency exchanges](https://github.com/hummingbot/hummingbot)
   - [bitcoin-arbitrage - opportunity detector and automated trading](https://github.com/maxme/bitcoin-arbitrage)
-  - 
+  - [A platform for trading crypto currencies and running crypto currency strategies including TradeView](https://github.com/grantcolley/tradeview)
   - [Octobot is a powerful open-source cryptocurrency trading robot](https://github.com/Drakkar-Software/OctoBot)
   - [Jesse is an advanced crypto trading framework that aims to simplify researching and defining YOUR OWN trading strategies.](https://github.com/jesse-ai/jesse)
   - [newbies into algo trading who are interested in learning to code their own trading algo using python](https://github.com/sreenivasdoosa/sdoosa-algo-trade-python)
   - [Lumibot is a backtesting and trading library for stocks, options, crypto, futures and more](https://github.com/Lumiwealth/lumibot)
   - [K is a family of (very customizable) very low latency market making trading bots with a fully featured web interface](https://github.com/ctubio/Krypto-trading-bot)
   - [Gamma Ray is a high frequnecy market maker trading bot for crypto currency markets written in C++](https://github.com/hello2all/gamma-ray)
+  - [Gym Trading Env is an Gymnasium environment for simulating stocks and training Reinforcement Learning](https://github.com/ClementPerroud/Gym-Trading-Env)
 
 ### 2.3 Quant Research
 - Alpha
   - [Analyzing Alpha](https://github.com/leosmigel/analyzingalpha)
+  - [Market Microstructure](https://github.com/gjimzhou/MTH9879-Market-Microstructure-Models)
   - 
