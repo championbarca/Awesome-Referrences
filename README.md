@@ -6,6 +6,8 @@
 - C++
 - Python
   - [dtale: easy way to view & analyze Pandas data structures](https://github.com/man-group/dtale)
+  - [PyFlux is an open source time series library for Python](https://github.com/RJT1990/pyflux)
+  - [Algorithmic Trading in Python with Machine Learning](https://github.com/edtechre/pybroker)
 - C#
 - Rust
 
@@ -27,6 +29,7 @@
   - [A Trade Platform](https://github.com/pegasusTrader/PandoraTrader)
   - [A pure python-based event-driven backtest and live trading package for quant traders](https://github.com/letianzj/quanttrader)
   - [zvt want to provide a simple facility for building straightforward algorithm](https://github.com/zvtvz/zvt)
+  - [Deep Learning based Python Library for Stock Market Prediction and Modelling](https://github.com/achillesrasquinha/bulbea)
 - Live Trading
   - [Systematic futures trading in python](https://github.com/robcarver17/pysystemtrade)
   - [This is an arbitrage trading bot initially inspired by this JS implementation](https://github.com/gabriel-milan/btrader)
@@ -42,3 +45,6 @@
   - [Gamma Ray is a high frequnecy market maker trading bot for crypto currency markets written in C++](https://github.com/hello2all/gamma-ray)
 
 ### 2.3 Quant Research
+- Alpha
+  - [Analyzing Alpha](https://github.com/leosmigel/analyzingalpha)
+  - 
