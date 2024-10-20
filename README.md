@@ -4,6 +4,11 @@
 
 ### 1.1 Programming
 - C++
+  - [Persistent file queue of buffers](https://github.com/niXman/fqueue)
+  - [Super fast date-time string formating functions used in YAL logger](https://github.com/niXman/dtf)
+  - [This is an online course where you can learn to find and fix low-level performance issues](https://github.com/dendibakh/perf-ninja)
+  - [Libwebsockets is a simple-to-use, MIT-license, pure C library providing client and server for http/1, http/2](https://github.com/warmcat/libwebsockets)
+  - [Modeling High-Frequency Limit Order Book Dynamics Using Machine Learning](https://github.com/anuj1312/OrderBook-TickData-Trading-Strategy)
 - Python
   - [dtale: easy way to view & analyze Pandas data structures](https://github.com/man-group/dtale)
   - [PyFlux is an open source time series library for Python](https://github.com/RJT1990/pyflux)
@@ -47,6 +52,9 @@
   - [Gym Trading Env is an Gymnasium environment for simulating stocks and training Reinforcement Learning](https://github.com/ClementPerroud/Gym-Trading-Env)
   - [Bot to automate trades of cryptocurrencies in Binance exchange](https://github.com/passa9/binance-market-maker-bot)
   - [Automated cryptocurrency trading bot](https://github.com/edeng23/binance-trade-bot)
+  - [Build a High Frequency Price Movement Strategy](https://github.com/HujiaYuYoyo/448Project)
+  - [BitMEX Market Maker](https://github.com/BitMEX/sample-market-maker)
+  - 
 
 ### 2.3 Quant Research
 - Alpha
@@ -56,5 +64,10 @@
   - [FedSpeak — How to build a NLP pipeline to predict central bank policy changes](https://github.com/yukit-k/centralbank_analysis)
   - [Alpha Research with AI](https://github.com/yukit-k/ai-alpha)
   - [An estimator of the fair price, given the state of the order book.](https://github.com/sstoikov/microprice)
+  - [https://github.com/englianhu/Quant-Strategies-HFT](https://github.com/englianhu/Quant-Strategies-HFT)
+  - [LOBster is a project entitled <Limit order book (LOB) driven simultaneous time-series estimation in real-market-microstructure>](https://github.com/Jeonghwan-Cheon/lob-deep-learning)
+  - [Micro_Price Notebooks](https://github.com/xhshenxin/Micro_Price)
+  - [The Micro-Price (Stoikov, 2017) is a high frequency estimator of future prices](https://github.com/grayvalley/microprice-calibration)
+  - [This repository contains code for researchers, regulators or practitioners who wish to use financial-exchange message data to quantify latency arbitrage](https://github.com/ericbudish/HFT-Races)
 - ML
   - [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
