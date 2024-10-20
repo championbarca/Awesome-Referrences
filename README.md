@@ -49,4 +49,4 @@
 - Alpha
   - [Analyzing Alpha](https://github.com/leosmigel/analyzingalpha)
   - [Market Microstructure](https://github.com/gjimzhou/MTH9879-Market-Microstructure-Models)
-  - 
+  - [Market-Microstructure in Baruch MFE for reference purpose](https://github.com/FranklinMa810/Market-Microstructure)
