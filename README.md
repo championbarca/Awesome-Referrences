@@ -24,9 +24,15 @@
   - [btplotting: Library to add extended plotting capabilities to backtrader ](https://github.com/happydasch/btplotting)
   - [finmarketpy is a Python based library that enables you to analyze market data and also to backtest trading strategies](https://github.com/cuemacro/finmarketpy)
   - [hftbacktest: For developing high-frequency trading and market-making strategies](https://github.com/nkaz001/hftbacktest)
+  - [A Trade Platform](https://github.com/pegasusTrader/PandoraTrader)
+  - [A pure python-based event-driven backtest and live trading package for quant traders](https://github.com/letianzj/quanttrader)
   - [zvt want to provide a simple facility for building straightforward algorithm](https://github.com/zvtvz/zvt)
 - Live Trading
   - [Systematic futures trading in python](https://github.com/robcarver17/pysystemtrade)
+  - [Octobot is a powerful open-source cryptocurrency trading robot](https://github.com/Drakkar-Software/OctoBot)
+  - [Jesse is an advanced crypto trading framework that aims to simplify researching and defining YOUR OWN trading strategies.](https://github.com/jesse-ai/jesse)
+  - [newbies into algo trading who are interested in learning to code their own trading algo using python](https://github.com/sreenivasdoosa/sdoosa-algo-trade-python)
+  - [Lumibot is a backtesting and trading library for stocks, options, crypto, futures and more](https://github.com/Lumiwealth/lumibot)
   - [K is a family of (very customizable) very low latency market making trading bots with a fully featured web interface](https://github.com/ctubio/Krypto-trading-bot)
   - [Gamma Ray is a high frequnecy market maker trading bot for crypto currency markets written in C++](https://github.com/hello2all/gamma-ray)
 
