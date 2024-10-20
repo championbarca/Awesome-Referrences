@@ -44,6 +44,8 @@
   - [K is a family of (very customizable) very low latency market making trading bots with a fully featured web interface](https://github.com/ctubio/Krypto-trading-bot)
   - [Gamma Ray is a high frequnecy market maker trading bot for crypto currency markets written in C++](https://github.com/hello2all/gamma-ray)
   - [Gym Trading Env is an Gymnasium environment for simulating stocks and training Reinforcement Learning](https://github.com/ClementPerroud/Gym-Trading-Env)
+  - [Bot to automate trades of cryptocurrencies in Binance exchange](https://github.com/passa9/binance-market-maker-bot)
+  - [Automated cryptocurrency trading bot](https://github.com/edeng23/binance-trade-bot)
 
 ### 2.3 Quant Research
 - Alpha
@@ -51,3 +53,7 @@
   - [Market Microstructure](https://github.com/gjimzhou/MTH9879-Market-Microstructure-Models)
   - [Market-Microstructure in Baruch MFE for reference purpose](https://github.com/FranklinMa810/Market-Microstructure)
   - [FedSpeak — How to build a NLP pipeline to predict central bank policy changes](https://github.com/yukit-k/centralbank_analysis)
+  - [Alpha Research with AI](https://github.com/yukit-k/ai-alpha)
+  - [An estimator of the fair price, given the state of the order book.](https://github.com/sstoikov/microprice)
+- ML
+  - [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
