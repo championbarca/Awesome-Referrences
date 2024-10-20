@@ -30,6 +30,7 @@
   - [aat is an asynchronous, event-driven framework for writing algorithmic trading strategies](https://github.com/AsyncAlgoTrading/aat)
   - [Backtest trading strategies with Python](https://github.com/kernc/backtesting.py)
   - [btplotting: Library to add extended plotting capabilities to backtrader ](https://github.com/happydasch/btplotting)
+  - [fastquant allows you to easily backtest investment strategies with as few as 3 lines of python code](https://github.com/enzoampil/fastquant)
   - [finmarketpy is a Python based library that enables you to analyze market data and also to backtest trading strategies](https://github.com/cuemacro/finmarketpy)
   - [hftbacktest: For developing high-frequency trading and market-making strategies](https://github.com/nkaz001/hftbacktest)
   - [A Trade Platform](https://github.com/pegasusTrader/PandoraTrader)
