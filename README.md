@@ -9,6 +9,8 @@
   - [This is an online course where you can learn to find and fix low-level performance issues](https://github.com/dendibakh/perf-ninja)
   - [Libwebsockets is a simple-to-use, MIT-license, pure C library providing client and server for http/1, http/2](https://github.com/warmcat/libwebsockets)
   - [Modeling High-Frequency Limit Order Book Dynamics Using Machine Learning](https://github.com/anuj1312/OrderBook-TickData-Trading-Strategy)
+  - [Libtrading is an open source API for high-performance, low-latency trading applications](https://github.com/libtrading/libtrading)
+  - [thOth is an open-source high frequency trading library in C++.](https://github.com/vermosen/thOth)
 - Python
   - [dtale: easy way to view & analyze Pandas data structures](https://github.com/man-group/dtale)
   - [PyFlux is an open source time series library for Python](https://github.com/RJT1990/pyflux)
