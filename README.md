@@ -8,6 +8,7 @@
   - [dtale: easy way to view & analyze Pandas data structures](https://github.com/man-group/dtale)
   - [PyFlux is an open source time series library for Python](https://github.com/RJT1990/pyflux)
   - [Algorithmic Trading in Python with Machine Learning](https://github.com/edtechre/pybroker)
+  - [PyLimitBook is an implementation of a fast limit-order book for level-2 US equities data written in Python](https://github.com/danielktaylor/PyLimitBook)
 - C#
 - Rust
 
