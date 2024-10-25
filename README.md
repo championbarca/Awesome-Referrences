@@ -20,7 +20,7 @@
   - [Python-based financial analytics library](https://dx-analytics.com/)
   - [Autoregressive Conditional Heteroskedasticity (ARCH)](https://github.com/bashtage/arch)
   - [Flint: A Time Series Library for Apache Spark](https://github.com/twosigma/flint)
-  - 
+  - [Ploomber is the fastest way to build data pipelines](https://github.com/ploomber/ploomber)
 - C#
   - [Reactive Trader® is a real-time FX trading platform designed to showcase reactive programming principles across the full application stack](https://github.com/AdaptiveConsulting/ReactiveTraderCloud)
 - Rust
